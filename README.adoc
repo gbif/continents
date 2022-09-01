@@ -3,7 +3,7 @@
 This repository contains a http://www.geopackage.org/spec/[GeoPackage] of a set of polygons suitable for constructing a 7-continent layer from terrestrial polygons.
 
 .The "Continent Cookie Cutter" polygons, to intersect with a set of global, terrestrial polygons
-image::continent-cookie-cutter.png[align=center]
+image::continent_cookie_cutter.png[align=center]
 
 For example, https://www.naturalearthdata.com/[Natural Earth], https://www.openstreetmap.org/[OpenStreetMap] or https://gadm.org/[GADM] polygons can be intersected with these polygons to derive the continents:
 
